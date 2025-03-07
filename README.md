@@ -9,6 +9,7 @@ Here you'll find some of the projects I've been working on, as well as contribut
 ## 🌱 Learning and Growth
 I'm always looking to learn new things and improve my skills. Currently, I'm focusing on learning in-depth about
 - AWS Cloud
+- Go
 
 ## 👯 Collaboration
 I'm open to collaborating on interesting projects. If you have an idea and think we can build something great together, feel free to reach out!
